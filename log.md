@@ -1,30 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 20 April 2026
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+- Learned fundamentals of HTML, CSS, and role of JavaScript
+- Studied HTML structure and elements (h1–h6, p)
+- Understood opening and closing tags
+- Learned about attributes and their syntax
+- Practiced anchor tag (<a>) with href and target attributes
+- Learned image element (<img>) with src and alt attributes
+- Studied void elements (img, input)
+- Learned input element basics and boolean attributes (checked, disabled, required, readonly)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:
+- Clear understanding of HTML basics and how elements and attributes work
+- Need more practice to get comfortable with syntax and usage
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Time Spent**:
+- 1 hour 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**:
+- https://www.freecodecamp.org/learn/responsive-web-design-v9/#lab-debug-pet-adoption-page
+- <img width="945" height="339" alt="image" src="https://github.com/user-attachments/assets/9874dc52-1d8c-4e5f-bc73-6b336a0739c7" />
