@@ -47,3 +47,24 @@
 **Link(s) to work**:
 - https://www.freecodecamp.org/learn/
 - https://www.notion.so/Responsive-Web-Design-34871ae74906801283ebd409c44a4063?source=copy_link (notion notes)
+
+### Day 3: 24 April 2026
+
+**Today's Progress**:
+- Learned semantic HTML elements: section, footer, figure, figcaption
+- Studied list elements: ul, ol, li
+- Learned text formatting elements: strong and em
+- Understood HTML structure (doctype, html, head, body, lang, title)
+- Practiced nesting and organizing content properly
+- Built a “Gym Guide” webpage using headings, lists, sections, and image
+
+**Thoughts**:
+- Better at structuring pages now
+- Need cleaner nesting and layout practice
+
+**Time Spent**:
+- 1 hour 
+
+**Link(s) to work**:
+https://www.notion.so/Cat-photo-app-continued-34c71ae7490680b28c1bd4ed6504ebd7?source=copy_link
+
