@@ -68,3 +68,24 @@
 **Link(s) to work**:
 https://www.notion.so/Cat-photo-app-continued-34c71ae7490680b28c1bd4ed6504ebd7?source=copy_link
 
+
+### Day 4: 27 April 2026
+
+**Today's Progress**:
+- Learned about div element as a container for grouping elements
+- Understood difference between semantic (section) and non-semantic (div) elements
+- Studied id and class attributes and their usage in styling
+- Learned uniqueness of id and reusability of class
+- Practiced assigning multiple classes to elements
+- Learned HTML entities (named, decimal, hexadecimal) and their purpose
+
+**Thoughts**:
+- Clear understanding of structuring and targeting elements for styling
+- Need practice applying id and class in real layouts
+
+**Time Spent**:
+- 1 hour 17 minutes
+
+**Link(s) to work**:
+- https://www.freecodecamp.org/learn/
+- https://www.notion.so/HTML-FUNDAMENTALS-34f71ae74906800fa146d5cbf98aca1f?source=copy_link
