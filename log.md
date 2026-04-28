@@ -89,3 +89,25 @@ https://www.notion.so/Cat-photo-app-continued-34c71ae7490680b28c1bd4ed6504ebd7?s
 **Link(s) to work**:
 - https://www.freecodecamp.org/learn/
 - https://www.notion.so/HTML-FUNDAMENTALS-34f71ae74906800fa146d5cbf98aca1f?source=copy_link
+
+### Day 5: 28 April 2026
+
+**Today's Progress**:
+- Learned script element and linking external JavaScript using src
+- Understood separation of concerns (HTML vs JS)
+- Built a bookstore webpage using divs, classes, ids, and buttons
+- Practiced nesting divs for structured layout (card system)
+- Learned button element for interactivity
+- Studied meta description and its role in SEO
+- Learned Open Graph tags (og:title, og:type, og:image, og:url)
+
+**Thoughts**:
+- Better at structuring multi-element layouts using reusable classes
+- Need more practice applying JS and SEO concepts in real projects
+
+**Time Spent**:
+- 1 hour 14 minutes 
+
+**Link(s) to work**:
+- https://www.freecodecamp.org/learn/
+- https://www.notion.so/Understanding-how-HTML-affects-SEO-35071ae74906803d94a0e0ea38a715fd?source=copy_link
